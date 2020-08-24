@@ -1,4 +1,4 @@
-### Hi there 👋
+### Since I was 13 years old I have been writing lines of code to deliver solutions that entertain and connect people around the world. 👋
 
 <!--
 **thiagocc/thiagocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
